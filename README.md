@@ -1,3 +1,4 @@
 # Amazon-Clone
-This is my first Repositories.
+This is my first Repository.
+<br>
 Author - Mohd Huzaifa
